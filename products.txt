@@ -1,0 +1,1 @@
+product name: laptop , price: 400000
